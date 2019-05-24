@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = 'insta_MJRefresh'
+    s.name         = 'MJRefresh'
     s.version      = '3.2.0'
     s.summary      = 'An easy way to use pull-to-refresh'
     s.homepage     = 'https://github.com/CoderMJLee/MJRefresh'
